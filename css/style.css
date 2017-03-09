@@ -99,38 +99,38 @@ h3{
     margin-top: 30px;
 }
 
-#title-holder {
+.title-holder {
     text-align: right;
 }
 
-#title-holder h1 {
+.title-holder h1 {
     font-weight: normal;
     font-size: 60px;
     margin-bottom: 0px;
     text-transform: capitalize;
 }
 
-#banner {
+.banner {
     text-align: center;
 }
 
-#feature-work {
+.feature-work {
     text-align: center;
     color: #2d3c49;
 }
 
-#feature-work figcaption {
+.feature-work figcaption {
     font-size: 20px;
     margin: 10px 0;
 }
 
-#feature-work div {
+.feature-work div {
     margin-bottom: 20px;
 }
 
-#feature-work a,
-#feature-work a:visited,
-#feature-work a:active {
+.feature-work a,
+.feature-work a:visited,
+.feature-work a:active {
     color: #02b3e4;
 }
 
@@ -173,7 +173,7 @@ footer {
         width: 100%;
     }
 
-    #banner {
+    .banner {
         width: 100%;
     }
 
